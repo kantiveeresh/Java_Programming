@@ -1,0 +1,19 @@
+
+1. Create a new Java Project ( File --> New--Java Project)
+2. create a new package ( right click on src-->class)
+3. create a new class ( right click on package-->new-->class)
+
+
+Naming convention
+---------------------
+1. class name should start with uppercase
+2. class name should not start with number
+3. class name contains _ (underscore)
+4. special characters are not allowed
+5. class name contains number /s
+
+Comments commands
+---------------------
+Single line comment //
+Multi line comment /* welcome */
+
